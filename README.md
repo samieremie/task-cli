@@ -2,6 +2,8 @@
 
 Simple task tracker program with a cli
 
+Project URL: https://roadmap.sh/projects/task-tracker
+
 ## Guide on how to use
 
 To use the program first make sure the counter.json and data.json files are not present in the folder.
